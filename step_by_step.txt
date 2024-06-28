@@ -1,0 +1,15 @@
+npm i --save vue-router
+npm i --save axios
+npm i --save-dev @types/axios @types/node
+npm i --save bootstrap
+npm i --save vee-validate
+npm i --save yup
+
+Quan ly state
+npm i --save pinia
+
+Su dung datatables
+npm install --save datatables.net-vue3
+npm install --save datatables.net-bs5
+npm install --save datatables.net-responsive
+npm install --save datatables.net-responsive-bs5
